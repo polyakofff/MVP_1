@@ -1,0 +1,10 @@
+C:\Me\C#\Shit\MVP_1\MVP_1\bin\Debug\MVP_1.exe.config
+C:\Me\C#\Shit\MVP_1\MVP_1\bin\Debug\MVP_1.exe
+C:\Me\C#\Shit\MVP_1\MVP_1\bin\Debug\MVP_1.pdb
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.csprojAssemblyReference.cache
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.Form1.resources
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.Properties.Resources.resources
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.View1.resources
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.csproj.GenerateResource.cache
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.exe
+C:\Me\C#\Shit\MVP_1\MVP_1\obj\Debug\MVP_1.pdb
