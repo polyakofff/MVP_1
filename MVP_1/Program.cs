@@ -7,9 +7,7 @@ using System.Windows.Forms;
 namespace MVP_1 {
     static class Program {
         /// <summary>
-        /// Главная точка входа для приложения.
-        /// Тут я добавляю кучу комментариев, ибо это новая ветка проекта.
-        /// И так как ничего нового тут не будет, тут будут комментарии.
+        /// Эх
         /// </summary>
         [STAThread]
         static void Main() {
